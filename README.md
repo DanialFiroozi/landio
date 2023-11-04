@@ -1,5 +1,7 @@
 # React + Vite
 
+This is React.js project bootstraped via react, some vanilla js codes and bootstrap 5.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -10,4 +12,3 @@ Currently, two official plugins are available:
 
 # Live Demo
 Check the live demo here 👉️ https://landio.iran.liara.run
-
